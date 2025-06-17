@@ -139,3 +139,4 @@ dask-worker-space/
 # macOS
 .DS_Store
 .virtual_documents/
+Stats/Notebooks/.ipynb_checkpoints
