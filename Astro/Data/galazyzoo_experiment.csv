@@ -1,0 +1,23 @@
+Galaxy ID,Total # of classifications,Elliptical,Spiral,Merger,Artifact,SSDS ID,Image,GZ Original Elliptical,GZ Original Spiral,GZ Original Merger,GZ Original Artifact,Computer Classification
+1,10,0,10,0,0,1237648720142336185,http://skyserver.sdss.org/dr8/en/tools/explore/obj.asp?id=1237648720142336185,0,37,0,0,Not Elliptical
+2,10,6,3,1,0,1237648721215815838,http://skyserver.sdss.org/dr8/en/tools/explore/obj.asp?id=1237648721215815838,3,53,1,0,Not Elliptical
+3,10,2,8,0,0,1237648721215946942,http://skyserver.sdss.org/dr8/en/tools/explore/obj.asp?id=1237648721215946942,5,58,0,0,Not Elliptical
+4,10,8,0,1,1,1237648721216078045,http://skyserver.sdss.org/dr8/en/tools/explore/obj.asp?id=1237648721216078045,35,0,0,0,Elliptical
+5,10,5,4,0,1,1237648721216078463,http://skyserver.sdss.org/dr8/en/tools/explore/obj.asp?id=1237648721216078463,0,31,0,1,Not Elliptical
+6,10,0,1,9,0,1237648721245503521,http://skyserver.sdss.org/dr8/en/tools/explore/obj.asp?id=1237648721245503521,1,0,25,1,Elliptical
+7,10,0,10,0,0,1237648722295914556,http://skyserver.sdss.org/dr8/en/tools/explore/obj.asp?id=1237648722295914556,0,23,0,0,Not Elliptical
+8,10,7,0,0,3,1237650795146576091,http://skyserver.sdss.org/dr8/en/tools/explore/obj.asp?id=1237650795146576091,38,1,0,3,Unable to Determine
+9,10,8,0,0,2,1237650795683381426,http://skyserver.sdss.org/dr8/en/tools/explore/obj.asp?id=1237650795683381426,63,2,0,0,Unable to Determine
+10,10,0,10,0,0,1237650796219596962,http://skyserver.sdss.org/dr8/en/tools/explore/obj.asp?id=1237650796219596962,0,26,0,0,Not Elliptical
+11,9,5,3,1,0,1237650796220121207,http://skyserver.sdss.org/dr8/en/tools/explore/obj.asp?id=1237650796220121207,14,17,0,0,Unable to Determine
+12,10,0,9,1,0,1237650796220514489,http://skyserver.sdss.org/dr8/en/tools/explore/obj.asp?id=1237650796220514489,0,25,0,0,Not Elliptical
+13,10,2,0,2,6,1237651538188435488,http://skyserver.sdss.org/dr8/en/tools/explore/obj.asp?id=1237651538188435488,0,0,0,31,Not Elliptical
+14,10,0,10,0,0,1237651800697143553,http://skyserver.sdss.org/dr8/en/tools/explore/obj.asp?id=1237651800697143553,0,26,0,0,Not Elliptical
+15,10,3,0,1,6,1237652899697983542,http://skyserver.sdss.org/dr8/en/tools/explore/obj.asp?id=1237652899697983542,0,0,0,62,Not Elliptical
+16,10,0,2,8,0,1237659896173690952,http://skyserver.sdss.org/dr8/en/tools/explore/obj.asp?id=1237659896173690952,0,2,22,0,Not Elliptical
+17,10,9,0,0,1,1237663783667302499,http://skyserver.sdss.org/dr8/en/tools/explore/obj.asp?id=1237663783667302499,21,1,0,1,Unable to Determine
+18,10,7,1,1,1,1237663784204107951,http://skyserver.sdss.org/dr8/en/tools/explore/obj.asp?id=1237663784204107951,25,1,0,1,Elliptical
+19,10,4,4,1,1,1237663785278570672,http://skyserver.sdss.org/dr8/en/tools/explore/obj.asp?id=1237663785278570672,33,22,0,1,Unable to Determine
+20,10,5,2,1,2,1237666338115617030,http://skyserver.sdss.org/dr8/en/tools/explore/obj.asp?id=1237666338115617030,15,9,0,6,Unable to Determine
+21,10,0,2,8,0,1237667323796127886,http://skyserver.sdss.org/dr8/en/tools/explore/obj.asp?id=1237667323796127886,0,0,35,0,Not Elliptical
+22,10,0,0,10,0,1237668365847560462,http://skyserver.sdss.org/dr8/en/tools/explore/obj.asp?id=1237668365847560462,0,0,27,0,Not Elliptical
