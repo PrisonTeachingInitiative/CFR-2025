@@ -1,0 +1,1 @@
+Hi Omar! You have 13 data files. They are named data_z.csv where z is the redshift. Each contains the UV brightness for all galaxies at that redshift. As you'll see, there are a lot of galaxies in each file. You might want to think about how you can use statistics to create 1 data point per redshift instead of showing all 4 million. Just a thought!

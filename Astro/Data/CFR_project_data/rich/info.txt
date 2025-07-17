@@ -1,0 +1,1 @@
+Hi Rich! You have one data file. It has g magnitude, r magnitude, and the average age of all the stars in the galaxy. It has this for all of the galaxies at redshift 2.44. It also has the probability that the galaxy is a spiral, so you'll want to make sure you're only looking at spirals.

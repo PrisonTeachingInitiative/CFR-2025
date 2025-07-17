@@ -1,0 +1,13 @@
+Hi Gabby! You have a lot of data! 
+
+First, there is a set of data files called data_z.csv, where z is the redshift. These files have information about the hydrogen, oxygen, and the total galaxy mass. Each file has all galaxies at that redshift that have an oxygen abundance greater than 8.03 and less than 8.07. 
+
+Second, you have all of the galaxies at z = 2.9 and their oxygen and hydrogen mass ratios. There were no cuts here.
+
+For all of the data, you will need to create a function where you calculate abundance from the raw oxygen and raw hydrogen data. Below are the following steps
+
+1. Divide the oxygen data column by the hydrogen data column
+2. Multiply by 1.008 and divide by 15.999
+3. Take log10 of the result. (I suggest you use np.log10)
+4. Add 12 to it
+You now have 12 + log[O/H]

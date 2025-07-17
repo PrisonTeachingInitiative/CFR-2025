@@ -1,0 +1,3 @@
+Hi W! Here's your data. You have 11 data files. They are named data_t.csv where t is the time ago in Gyr. Each contains the SFR, gas metallicity, and star metallicity for galaxies at that time. I did do a mass cut to mimic your paper. So it only has galaxies with a stellar mass between 10^7 Msun and 10^10 Msun.
+
+As you'll see, there are a lot of galaxies in each file. You might want to think about how you can use statistics to create 1 data point per redshift instead of showing all 1 million. Just a thought!

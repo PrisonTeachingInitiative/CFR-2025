@@ -1,0 +1,5 @@
+Hi Belle!
+
+I am giving you 6 files. One for each redshift I have data for. The files are named p_sprial_z.csv, where z is the redshift.
+
+Each of these files only contains the probabilities of the galaxies being a spiral galaxy. The length is how many galaxies there are for that redshift. You'll need to turn these probabilities into a spiral fraction for each redshift. You have done this before!
