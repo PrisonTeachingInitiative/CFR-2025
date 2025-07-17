@@ -1,0 +1,1 @@
+Hi Daniel! Here's your data. Each file has SFR and metallicity for all of the galaxies that have a stellar mass between 10^8.57 and 10^8.66 Msun. There's a file for each redshift. I got your redshifts 0.5, 1, 1.5, 2, 2.4, and 3. (I don't know why they don't have a 2.5, so 2.4 is as close as I could get.)
