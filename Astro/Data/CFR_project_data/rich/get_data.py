@@ -22,6 +22,8 @@ morph = h5py.File('/Volumes/Titan/TNG_all/TNG50/morphologies_deeplearn.hdf5', 'r
 SubfindID = morph['Snapshot_29/SubhaloID'][()] #IDs of galaxies
 p_spiral = morph['Snapshot_29/P_Disk'][()] 
 
+SubfindID = [a for a in SubfindID if a != 362]
+
 # not all of the galaxies have a p_spiral, so we are going to grab only those that do
 g = g[SubfindID]
 r = r[SubfindID]
@@ -75,5 +77,5 @@ for subhalo in SubfindID: #362 is no good
 	age.append(save_particle_data(subhalo))
 
 # save file
-df = pd.DataFrame({'g band':g, 'r band':r, 'average stellar age [Gyr]':age})
+df = pd.DataFrame({'g band':g, 'r band':r, 'average stellar age [Gyr]':age, 'prob spiral':p_spiral})
 df.to_csv('galaxy_info_2.44.csv', index=None)
