@@ -1,1 +1,13 @@
 Hi Daniel! Here's your data. Each file has SFR and metallicity for all of the galaxies that have a stellar mass between 10^8.57 and 10^8.66 Msun. There's a file for each redshift. I got your redshifts 0.5, 1, 1.5, 2, 2.4, and 3. (I don't know why they don't have a 2.5, so 2.4 is as close as I could get.)
+
+New data!! 
+
+Same mass cut. Now this is metal mass for stars and gas.
+
+For all of the data, you will need to create a function where you calculate abundance from the raw metal mass and raw hydrogen data. Below are the following steps
+
+1. Divide the metal data column by the hydrogen star/gas data column
+2. Multiply by 1.008 and divide by the amu of the element
+3. Take log10 of the result. (I suggest you use np.log10)
+4. Add 12 to it
+You now have 12 + log[metal/H]
